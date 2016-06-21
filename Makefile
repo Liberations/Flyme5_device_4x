@@ -143,8 +143,8 @@ board_modify_apps := TeleService SystemUI FlymeLauncher
 # You should configure the property according to your device and your ID with replace the "Nexus-5_Unofficial".
 override_property += \
     ro.flyme.romer=Liberation \
-    ro.product.model_romer=Che1-CL10_Liberation\
-    ro.product.device=cherry\
+    ro.product.model_romer=Che1-CL10_Liberation \
+    ro.product.device=cherry
 
 
 ##############################################################################
